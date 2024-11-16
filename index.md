@@ -1,9 +1,9 @@
 # Tyler Weir
 
 ## Current
-- databonds - fractional CTO and investor
-- placement loop - fractional CTO
-- dataswyft - CTO and investor
+- [databonds](https://databonds.co.uk) - fractional CTO and investor
+- [placement loop](https://placementloop.com) - fractional CTO
+- [dataswyft](https://dataswyft.com) - CTO and investor
 
 ## Previous Experience
 - Askuity - Founding Engineer and investor - sold to The Home Depot
@@ -12,7 +12,7 @@
 - Varicent - Developer and investor - sold to IBM
 - IBM - Compiler Developer 
 - Crossfit Quantum - Owner
-- Author - http://isbn.nu/1430224215
+- Author - [book](http://isbn.nu/1430224215)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/tylerweir/)
